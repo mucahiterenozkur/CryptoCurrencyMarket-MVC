@@ -3,7 +3,7 @@ In this project, I used an api to get crypto currency informations and show them
 Custom cells, collection view and table view are used. <br>
 
 ✔️ Coin list view, <br>
-✔️ Displaying the detail view of the token when you click,<br>
+✔️ Displaying the detail view of the token when you click, <br>
 ✔️ MVC, <br>
 ✔️ Collection view, <br>
 ✔️ Table view, <br>
